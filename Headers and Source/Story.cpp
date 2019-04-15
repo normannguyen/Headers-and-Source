@@ -1,3 +1,7 @@
+//Norman Nguyen
+//Program: Learning Functions with Interactive Fiction using MULTIPLE FILES
+//Story file
+
 #include <iostream>
 #include <string>
 #include "Story.h"
